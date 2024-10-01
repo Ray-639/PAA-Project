@@ -1,0 +1,94 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+section {
+    padding: 25px;
+    text-align: center;
+    background-color: yellow;
+}
+
+button {
+    color: black;
+    background-color: rgb(74, 162, 74);
+    display: inline;
+    width: 150px;
+    border-radius: 8px;
+    padding: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.square {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.footer {
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
+}
+
+.img-left {
+    float: left;
+    width: 200px;
+    margin-left: 150px;
+    padding: 15px;
+}
+
+.img-right {
+    float: right;
+    width: 200px;
+    margin-right: 150px;
+    padding: 15px;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+    width: 300px;
+}
+
+.img-bottom-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 150px;
+    width: 300px;
+}
+
+.h-p {
+    text-align: justify;
+    margin-bottom: 50px;
+}
